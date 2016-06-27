@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        Twitch Plays Pokemon Visualizer Extension
-// @namespace   https://localhost/js/twitch_visualizer_plugin_1.0.user.js
+// @namespace   https://www.tppvisuals.com/js/twitch_visualizer_plugin_1.0.user.js
 // @description Shows a PBR Visualizer below the stream.
 
 // @include     /^https?://(www|beta)\.twitch\.tv\/(twitchplayspokemon(/(chat.*)?)?|chat\/.*channel=twitchplayspokemon.*)$/
 
 // @version     1.0
-// @updateURL   https://localhost/js/twitch_visualizer_plugin_1.0.meta.js
-// @downloadURL https://localhost/js/twitch_visualizer_plugin_1.0.user.js
+// @updateURL   https://www.tppvisuals.com/js/twitch_visualizer_plugin_1.0.meta.js
+// @downloadURL https://www.tppvisuals.com/js/twitch_visualizer_plugin_1.0.user.js
 // @grant       none
 // @run-at      document-end
 // ==/UserScript==
