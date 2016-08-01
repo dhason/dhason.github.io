@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name           Twitch touches pokemon
-// @namespace      https://github.com/lostcoaster/twitch-touches-pokemon
+// @name           Twitch Plays Pokemon Touchscreen Extension
+// @namespace      https://dhason.github.io/twitch-touchscreen.user.js
 // @author         lostcoaster
 // @author         MattiasBuelens
 // @author         WhatAboutGaming
+// @author         felkcraft
 // @version        1.10
 // @description    A tool adding a touch overlay onto the stream of twitchplayspokemon.
-// @description    Fixed to work with Pokemon Randomized Alpha Sapphire, Send on Clicking fixed, now works on Theater Mode
+// @description    Fixed to work with Pokemon Randomized Plaatinum, Send on Clicking fixed, now works on Theater Mode
 // @grant          none
 // @run-at         document-end
 
@@ -15,7 +16,8 @@
 // @include        /^https?://(www\.)?tinytwit\.ch\/twitchplayspokemon.*$/
 // @include        /^https?://(www\.)?twitchplayspokemon\.net\/?$/
 
-// @updateURL      https://raw.githubusercontent.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js
+// @updateURL      https://dhason.github.io/twitch-touchscreen.user.js
+// @downloadURL      https://dhason.github.io/twitch-touchscreen.user.js
 // ==/UserScript==
 
 // for bookmarklet users : javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js';})();
